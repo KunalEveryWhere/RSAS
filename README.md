@@ -19,4 +19,6 @@ Apparatus Required:
 i. ESP8266 / NodeMCU
 ii. Jumping Wires
 iii. Beeper
-iv. 
+iv. Sound Sensor
+v. Photoresistor
+vi. RGB Led Diode
