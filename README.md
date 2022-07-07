@@ -9,3 +9,14 @@ This is an IoT Device Application. The system proposes an array of sound and lig
 The light detection system works at night, when there are unauthorized activity by vechile lights, torches, etc to detect with sound sesnors as well.
 
 This is a very serios problem since trapped and dead animal, along with unauthorized humna activity can pollute and harm the water table, and in turn the supply to a whole idutstrial area / city space.
+
+_______________________________
+
+Navigate to src/main.cpp for the development code.
+
+Apparatus Required:
+
+i. ESP8266 / NodeMCU
+ii. Jumping Wires
+iii. Beeper
+iv. 
